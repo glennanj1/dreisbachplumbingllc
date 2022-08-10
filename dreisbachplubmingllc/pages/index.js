@@ -16,11 +16,11 @@ export default function Home() {
           Welcome to <a href="">Dreisbach Plumbing LLC!</a>
         </h1>
 
-        <p className={styles.description}>
+        {/* <p className={styles.description}>
           I&apos;ll clean out your pipes!{' '}
           Any pipes you would like!{' '}
           <code className={styles.code}>Day or Night! 😉</code>
-        </p>
+        </p> */}
 
         {/* <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
